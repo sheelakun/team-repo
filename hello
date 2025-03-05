@@ -1,2 +1,7 @@
 hi i hope you are doing great.
-i am trying to learn
+i am trying to learn 
+
+print("Hi, how are you doing?")
+print("I am learning Git!")
+name= input("what's your name")
+print(name)
